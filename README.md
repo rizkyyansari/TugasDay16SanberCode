@@ -14,3 +14,5 @@ Ketentuan:
 Buat minimal 3 test cases. Bebas menggunakan public website apa saja
 
 periode pengerjaan Tugas Day 16 adalah 2 hari (maks 31 Mei 2023 pukul 15.00 WIB)
+
+![image](https://github.com/rizkyyansari/TugasDay16SanberCode/assets/39556625/f3bff8a9-f2f3-4db1-950f-bf9ff2c95bde)
