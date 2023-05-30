@@ -9,3 +9,8 @@ Tugas Day 16 Selenium Python
 
 4. Submit link github ke kolom pengumpulan tugas hari ini
 
+Ketentuan:
+
+Buat minimal 3 test cases. Bebas menggunakan public website apa saja
+
+periode pengerjaan Tugas Day 16 adalah 2 hari (maks 31 Mei 2023 pukul 15.00 WIB)
